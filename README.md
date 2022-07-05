@@ -1,7 +1,7 @@
 # Naruto Quotes
 Naruto quotes generator 
 
-![Anotação 2022-07-03 001837](Anotação 2022-07-03 001837.jpg?raw=true "Anotação 2022-07-03 001837")
+![screenshot](Anotação 2022-07-03 001837.jpg?raw=true "screenshot")
 
 # Install
 Clone this repository and install it dependencies with this command:
