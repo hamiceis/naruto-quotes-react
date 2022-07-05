@@ -1,6 +1,8 @@
 # Naruto Quotes
 Naruto quotes generator 
 
+![img](https://github.com/hamiceis/naruto-quotes-react/blob/main/Anota%C3%A7%C3%A3o%202022-07-03%20001837.jpg?raw=true)
+
 <h3>technologies</h3>
 
 <li> ReactJS </li>
