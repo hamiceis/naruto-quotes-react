@@ -1,7 +1,11 @@
 # Naruto Quotes
 Naruto quotes generator 
 
-![screenshot](Anotação 2022-07-03 001837.jpg?raw=true "screenshot")
+<h3>technologies</h3>
+
+<li> ReactJS </li>
+<li> Typescript </li>
+<li> Tailwindcss </li>
 
 # Install
 Clone this repository and install it dependencies with this command:
